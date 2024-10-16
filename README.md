@@ -1,2 +1,2 @@
-Link : https://github.com/nurulolif/website-portofolio.git
+Link : https://nurulolif.github.io
 
